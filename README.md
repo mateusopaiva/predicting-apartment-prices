@@ -1,4 +1,4 @@
-<h1 align="center">Predicting Apartment Prices using Machine Learning/h1>
+<h1 align="center">Predicting Apartment Prices using Machine Learning </h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge" alt="Status Concluded Badge">
@@ -32,6 +32,7 @@ predicting-apartment-price/
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   
 </div>
           
